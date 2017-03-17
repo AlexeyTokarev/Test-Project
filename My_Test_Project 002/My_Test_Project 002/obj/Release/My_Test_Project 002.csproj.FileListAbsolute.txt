@@ -1,0 +1,11 @@
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\Планировщик.exe.config
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBaseDataSet.xsd
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBase.ldf
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBase.mdf
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBaseDataSet.Designer.cs
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBaseDataSet.xsc
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\TaskDataBaseDataSet.xss
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\Планировщик.exe
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Release\Планировщик.pdb
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\obj\Release\Планировщик.exe
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\obj\Release\Планировщик.pdb

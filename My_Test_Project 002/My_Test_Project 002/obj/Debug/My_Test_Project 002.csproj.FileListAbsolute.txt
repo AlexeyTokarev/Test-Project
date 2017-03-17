@@ -1,0 +1,6 @@
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Debug\Планировщик.exe.config
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Debug\Планировщик.exe
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\bin\Debug\Планировщик.pdb
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\obj\Debug\Планировщик.exe
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\obj\Debug\Планировщик.pdb
+C:\Users\Алексей\documents\visual studio 2015\Projects\My_Test_Project 002\My_Test_Project 002\obj\Debug\My_Test_Project 002.csprojResolveAssemblyReference.cache
